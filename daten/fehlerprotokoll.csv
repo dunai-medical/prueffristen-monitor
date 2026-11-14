@@ -1,0 +1,54 @@
+﻿datei;zeile;inventarnr;regel;fehler
+geraete_de.csv;12;DE-00272;DQ-4;unmögliches Datum (31.02.)
+geraete_de.csv;44;DE-90002;DQ-3;exakte Dublette von DE-00129
+geraete_de.csv;56;DE-00028;DQ-4;Prüfdatum in der Zukunft
+geraete_de.csv;57;DE-00133;DQ-4;Anschaffungsjahr nach Inbetriebnahme
+geraete_de.csv;58;DE-90003;DQ-3;exakte Dublette von DE-00094
+geraete_de.csv;68;DE-00071;DQ-4;Prüfung vor Inbetriebnahme
+geraete_de.csv;75;DE-00002;DQ-1;Standort fehlt
+geraete_de.csv;82;DE-00096;DQ-1;Seriennummer fehlt
+geraete_de.csv;87;DE-00259;DQ-4;Anschaffungsjahr nach Inbetriebnahme
+geraete_de.csv;98;DE-90001;DQ-3;exakte Dublette von DE-00033
+geraete_de.csv;141;DE-00036;DQ-1;Seriennummer fehlt
+geraete_de.csv;152;DE-00115;DQ-4;unmögliches Datum (31.02.)
+geraete_de.csv;154;DE-00124;DQ-6;STK-Intervall über 24 Monate
+geraete_de.csv;155;DE-00146;DQ-1;Herstelleranschrift fehlt
+geraete_de.csv;161;DE-90004;DQ-3;Schreibvariante (Verdacht) von DE-00091
+geraete_de.csv;173;DE-00278;DQ-1;Herstelleranschrift fehlt
+geraete_de.csv;195;DE-00042;DQ-1;Seriennummer fehlt
+geraete_de.csv;196;DE-00072;DQ-1;Herstelleranschrift fehlt
+geraete_de.csv;201;DE-00004;DQ-1;Seriennummer fehlt
+geraete_de.csv;204;DE-00216;DQ-4;Prüfung vor Inbetriebnahme
+geraete_de.csv;226;DE-00100;DQ-5;mehrdeutiges Datumsformat
+geraete_de.csv;227;DE-90005;DQ-3;Schreibvariante (Verdacht) von DE-00013
+geraete_de.csv;250;DE-00041;DQ-4;Prüfdatum in der Zukunft
+geraete_de.csv;268;DE-00169;DQ-1;Standort fehlt
+geraete_de.csv;273;DE-00053;DQ-6;STK-Intervall über 24 Monate
+geraete_de.csv;275;DE-00241;DQ-1;Standort fehlt
+geraete_de.csv;277;DE-00068;DQ-9;kein Bezugsdatum für STK
+geraete_de.csv;285;DE-00083;DQ-5;mehrdeutiges Datumsformat
+geraete_de.csv;300;DE-00142;DQ-9;kein Bezugsdatum für STK
+geraete_ch.csv;26;CH-90002;DQ-3;exakte Dublette von CH-00083
+geraete_ch.csv;32;CH-90001;DQ-3;exakte Dublette von CH-00025
+geraete_ch.csv;42;CH-00002;DQ-8;nächste Instandhaltung widerspricht Intervall
+geraete_ch.csv;44;CH-00130;DQ-8;nächste Instandhaltung widerspricht Intervall
+geraete_ch.csv;61;CH-00098;DQ-2;Pflichtfeld schutzklasse fehlt
+geraete_ch.csv;65;CH-00154;DQ-5;mehrdeutiges Datumsformat
+geraete_ch.csv;73;;DQ-2;Pflichtfeld inventarnr fehlt
+geraete_ch.csv;79;CH-00143;DQ-4;Datum in der Zukunft
+geraete_ch.csv;82;CH-00075;DQ-8;nächste Instandhaltung widerspricht Intervall
+geraete_ch.csv;87;CH-00181;DQ-2;Pflichtfeld udi_oder_seriennr fehlt
+geraete_ch.csv;89;;DQ-2;Pflichtfeld inventarnr fehlt
+geraete_ch.csv;98;CH-00038;DQ-2;Pflichtfeld risikoklasse fehlt
+geraete_ch.csv;108;CH-00167;DQ-4;Instandhaltung vor Inbetriebnahme
+geraete_ch.csv;113;CH-00172;DQ-2;Pflichtfeld udi_oder_seriennr fehlt
+geraete_ch.csv;117;CH-00071;DQ-2;Pflichtfeld lieferant fehlt
+geraete_ch.csv;141;CH-90004;DQ-3;Schreibvariante (Verdacht) von CH-00200
+geraete_ch.csv;142;CH-00111;DQ-2;Pflichtfeld lieferant fehlt
+geraete_ch.csv;163;CH-00064;DQ-4;unmögliches Datum (31.02.)
+geraete_ch.csv;165;CH-00035;DQ-4;unmögliches Datum (31.02.)
+geraete_ch.csv;168;CH-90003;DQ-3;Schreibvariante (Verdacht) von CH-00031
+geraete_ch.csv;175;CH-00131;DQ-2;Pflichtfeld risikoklasse fehlt
+geraete_ch.csv;181;CH-00174;DQ-2;Pflichtfeld udi_oder_seriennr fehlt
+geraete_ch.csv;186;CH-00005;DQ-2;Pflichtfeld schutzklasse fehlt
+geraete_ch.csv;188;CH-00069;DQ-4;Instandhaltung vor Inbetriebnahme

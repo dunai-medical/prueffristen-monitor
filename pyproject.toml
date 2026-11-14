@@ -1,0 +1,9 @@
+[project]
+name = "prueffristen-monitor"
+version = "0.1.0"
+description = "Prüffristen und Datenqualität für Medizinprodukte-Bestände (DE: MPBetreibV, CH: MepV/GPI) – Demonstration, kein Medizinprodukt"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
